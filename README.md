@@ -15,3 +15,4 @@ Ejercicios extra para practicar con arrays en Java.
 
 - [Ejercicio 1 - Ordenar un array](./01_ordenar_array/).
 - [Ejercicio 2 - Ajedrez](./02_ajedrez/).
+- [Ejercicio 3 - Conecta 4](./03_conecta_4/).
